@@ -40,6 +40,9 @@ gem 'bootstrap-sass', '~> 3.3'
 # CKEditor for creation and updating posts
 gem 'ckeditor', '~> 4.1'
 
+# Add devise for authentication
+gem 'devise'
+
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
