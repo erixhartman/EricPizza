@@ -1,24 +1,9 @@
-# README
+# EricHartman.pizza
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a blog to brush up on some skills and to have somewhere to publish my pizza thoughts.
 
-Things you may want to cover:
+*Ruby on Rails
 
-* Ruby version
+*Testing to come
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+*Front end tbd
